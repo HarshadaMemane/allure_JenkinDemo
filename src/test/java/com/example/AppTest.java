@@ -10,7 +10,7 @@ public class AppTest {
 
     @Test
     @Description("Simple test to check Addition")
-    public void testsubstraction() {
+    public void testAddition() {
         int a = 10;
         int b = 5;
         int sum = a + b;
